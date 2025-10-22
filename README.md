@@ -14,12 +14,12 @@ The notebook in this folder demonstrates the new Agentic Retrieval feature in Az
 If you are using an ARM processor I suggest using Python 3.12 and not 3.13 so that the latest openai and aiohttp packages install.
 
 ## Azure Roles
-The instructions say to add the 'Cognitive Services User' role to your ID and the managed identity of the Foundry instance. This is required.
+The instructions say to add the 'Cognitive Services User' role to your ID and the managed identity of the Foundry instance. This is required.  
 !! You must also add the 'Cognitive Services OpenAI User' role to both your ID and the managed identity of the Foundry instance.
 
 ## Query Phrasing
 The first query in the instructions does not return results. After analysis I determined that this is due to the phrasing of the query.
-We should ask 'what' or 'how versus why'. The modified query returns results. Example:
+We should ask 'what' or 'how', versus 'why'. The modified query returns results. Example:
       
 >  Original Query (no results)
 >  - Why is the Phoenix nighttime street grid is so sharply visible from space, whereas large stretches of the interstate between midwestern cities remain comparatively dim?
