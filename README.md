@@ -2,11 +2,11 @@
 
 | Item          | Details
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|Description    | The notebook in this folder demonstrates the new Agentic Retrieval feature in Azure Cognitive Search that executes parallel queries. |
-|Feature Status | Preview |
-|Code Status    | Sample working as of Oct 2, 2025 |
-|Language       | Python (used a .venv environment) |
-|Documentation  | https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?tabs=foundry-perms%2Csearch-endpoint&pivots=programming-language-python |
+|###Description    | ###The notebook in this folder demonstrates the new Agentic Retrieval feature in Azure Cognitive Search that executes parallel queries. |
+|###Feature Status | ###Preview |
+|###Code Status    | ###Sample working as of Oct 2, 2025 |
+|###Language       | ###Python (used a .venv environment) |
+|###Documentation  | ###https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?tabs=foundry-perms%2Csearch-endpoint&pivots=programming-language-python |
 
 # Notes:  
 
