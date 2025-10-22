@@ -1,12 +1,12 @@
 # Agentic Retrieval Quickstart
 
-Description:    Demonstrates the new Agentic Retrieval feature in Azure Cognitive Search that executes parallel queries.
-Feature Status: Preview
-Code Status:    This sample working as of Oct 2, 2025
-Language:       Python (used a .venv environment)
-Documentation:  https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?tabs=foundry-perms%2Csearch-endpoint&pivots=programming-language-python
+ - Description:    Demonstrates the new Agentic Retrieval feature in Azure Cognitive Search that executes parallel queries.
+ - Feature Status: Preview
+ - Code Status:    This sample working as of Oct 2, 2025
+ - Language:       Python (used a .venv environment)
+ - Documentation:  https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?tabs=foundry-perms%2Csearch-endpoint&pivots=programming-language-python
 
-Notes:
+# Notes:
     Python Version
     - If you are using an ARM processor I suggest using Python 3.12 and not 3.13. I tried 3.13 and the openai and aiohttp packages failed to install.
 
