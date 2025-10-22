@@ -10,7 +10,7 @@
 
 # Notes:
     Python Version
-    - If you are using an ARM processor I suggest using Python 3.12 and not 3.13. I tried 3.13 and the openai and aiohttp packages failed to install.
+    - If you are using an ARM processor I suggest using Python 3.12 and not 3.13 so that the latest openai and aiohttp packages install.
 
     Azure Roles
     - The instructions say to add the 'Cognitive Services User' role to your ID and the managed identity of the Foundry instance. This is required.
