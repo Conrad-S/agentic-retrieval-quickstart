@@ -8,6 +8,7 @@
  - Documentation:  https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval?tabs=foundry-perms%2Csearch-endpoint&pivots=programming-language-python
 ```
 
+```
 # Notes:
     Python Version
     - If you are using an ARM processor I suggest using Python 3.12 and not 3.13 so that the latest openai and aiohttp packages install.
@@ -34,5 +35,6 @@
        - returns the resulting text to an LLM, which generates the final response to the user.
 
       For the first query in this notebook, these steps took 9.2 seconds to complete.
+```
 
 C. Scott - Oct 2, 2025
