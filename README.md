@@ -27,7 +27,7 @@ We should ask 'what' or 'how versus why'. The modified query returns results. Ex
 >  Modified Query (results)
 >  - What makes Phoenix's urban street grid so visible from space at night? How does Phoenix's nighttime appearance compare to other cities?
 
-##Performance
+## Performance  
 The agent:
 - breaks a user question into multiple queries (the framework controls this),
 - executes the queries in parallel (possibly multiple times),
