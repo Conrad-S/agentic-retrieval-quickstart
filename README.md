@@ -4,7 +4,7 @@ The notebook in this folder demonstrates the new Agentic Retrieval feature in Az
 |Item           | Description
 ----------------|-------------------------------------------------------------------------------------|
 |Feature Status | Preview |
-|Code Status    | Sample working as of Oct 2, 2025 |
+|Code Status    | Sample developed Oct 2, 2025 |
 |Language       | Python (used a .venv environment) |
 |Documentation  | https://learn.microsoft.com/en-us/azure/search/search-get-started-agentic-retrieval |
 
