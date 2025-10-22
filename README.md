@@ -1,6 +1,8 @@
 # Agentic Retrieval Quickstart  
 The notebook in this folder demonstrates the new Agentic Retrieval feature in Azure Cognitive Search that executes parallel queries.
 
+|Item           | Description
+----------------|-------------------------------------------------------------------------------------|
 |Feature Status | Preview |
 |Code Status    | Sample working as of Oct 2, 2025 |
 |Language       | Python (used a .venv environment) |
